@@ -1,4 +1,4 @@
-<h1 align="center">Pilot_Assistant</h1>
+<h1 align="center">Pilot Assistant</h1>
 
 ## **Automated Landing Assistance System ✈️**
 
@@ -12,9 +12,9 @@ This system enhances situational awareness and decision-making, helping pilots e
 
 ## **Pilot Instrument Approach Charts**
 
-| Image 1                            | Image 2                             |
-| ---------------------------------- | ----------------------------------- |
-| ![Alt1](pilot_asistant/pudong.png) | ![Alt2](pilot_asistant/taiyuan.png) |
+| Image 1             | Image 2              |
+| ------------------- | -------------------- |
+| ![Alt1](pudong.png) | ![Alt2](taiyuan.png) |
 
 # **Solution:**
 
