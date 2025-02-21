@@ -12,7 +12,7 @@ This system enhances situational awareness and decision-making, helping pilots e
 
 ## **Pilot Instrument Approach Charts**
 
-| Image 1             | Image 2              |
+| Shang Hai           | Tai Yuan             |
 | ------------------- | -------------------- |
 | ![Alt1](pudong.png) | ![Alt2](taiyuan.png) |
 
